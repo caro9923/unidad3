@@ -1,2 +1,2 @@
-# unidad3
-Moviles
+# moviles-sensors
+react native | expo | sensors
